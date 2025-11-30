@@ -22,10 +22,8 @@
 
 #include <QObject>
 
-// QApt
-#include <QApt/Backend>
-#include <QApt/Config>
-#include <QApt/Transaction>
+// QApt - Temporary compatibility for Qt6 migration
+#include "qapltemporary.h"
 
 class UpdatorHelper : public QObject
 {
