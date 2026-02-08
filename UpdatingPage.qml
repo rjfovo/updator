@@ -21,7 +21,7 @@ import QtQuick 6.0
 import QtQuick.Controls 6.0
 import QtQuick.Layouts 6.0
 import FishUI 1.0 as FishUI
-import cutefish.Updator 1.0
+import Cutefish.Updator 1.0
 
 Item {
     id: control
